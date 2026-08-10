@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "@electron/notarize": "^1.2.3",
-    "electron": "^26.3.0",
+    "electron": "^39.8.10",
     "electron-builder": "^24.6.4",
     "eslint": "^8.50.0",
     "eslint-config-standard": "^17.1.0",
@@ -28,7 +28,7 @@
     "eslint-plugin-promise": "^6.1.1"
   },
   "dependencies": {
-    "electron-util": "^0.17.2"
+    "electron-util": "^1.0.0"
   },
   "overrides": {
     "electron": {
