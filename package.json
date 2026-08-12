@@ -35,5 +35,8 @@
       "@electron/get": "^2.0.2"
     },
     "minimatch@<3.0.5": ">=3.0.5"
+  },
+  "resolutions": {
+    "builder-util-runtime": "^9.7.0"
   }
 }
