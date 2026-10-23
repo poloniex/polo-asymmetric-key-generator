@@ -1,0 +1,19 @@
+yarn.lock
+  s_ca54fec21bc15c::t_859de534bc889d 544-546
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "e4dd38b302103540a374ca9f43788f3acc5b6541",
+  "prompts": {},
+  "sessions": {
+    "s_ca54fec21bc15c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "79cff520-fd7c-4ae9-976e-89d2ab007fb4",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "“king.guo” <king.guo@poloniex.com>"
+    }
+  }
+}
