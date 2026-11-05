@@ -37,6 +37,7 @@
     "minimatch@<3.0.5": ">=3.0.5"
   },
   "resolutions": {
-    "builder-util-runtime": "^9.7.0"
+    "builder-util-runtime": "^9.7.0",
+    "brace-expansion": "^2.1.7"
   }
 }
