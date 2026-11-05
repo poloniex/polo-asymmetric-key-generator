@@ -1,0 +1,21 @@
+package.json
+  s_800f88b9f25a2e::t_a8e37712c6f55e 40-41
+yarn.lock
+  s_800f88b9f25a2e::t_91f1fac23f1323 543-546
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "6334fc8104ea15816caf15ae0a94c768b41f632a",
+  "prompts": {},
+  "sessions": {
+    "s_800f88b9f25a2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c00632c-0d6f-4d29-89d8-4bb219cde3d9",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "“king.guo” <king.guo@poloniex.com>"
+    }
+  }
+}
